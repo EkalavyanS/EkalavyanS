@@ -8,9 +8,7 @@ I am a 12 year old FERN stack programmer who is well versed in the art of buildi
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ekalavyan.nair@gmail.com](mailto:ekalavyan.nair@gmail.com )
-* 🚀  I'm currently working on [NutrigraspKidz](http://nutri-grasp-kidz.vercel.app/)
 * 🧠  I'm learning ML and DL
-* 🤝  I'm open to collaborating on Coding Habits
 
 ### Skills
 
